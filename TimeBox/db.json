@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "Clean the living room",
+      "day": "",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Finish my assignment",
+      "day": "",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Email professor",
+      "day": "",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Do the dishes",
+      "day": "",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Grocery shopping",
+      "day": "",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
